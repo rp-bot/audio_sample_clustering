@@ -1,1 +1,1 @@
-# A Clustering Solution for Audio Samples in a Latent Space
+# A Clustering Solution for Audio Samples in the Latent Space
